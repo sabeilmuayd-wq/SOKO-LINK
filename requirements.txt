@@ -1,5 +1,0 @@
-streamlit
-pandas
-speechrecognition
-pyttsx3
-PyAudio
